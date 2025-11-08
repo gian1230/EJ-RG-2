@@ -1,2 +1,15 @@
 # EJ-RG-2
-es un ejemplo de repositorio de Github
+Este es un ejemplo de repositorio creado desde GitHub
+# EJ-RG-2
+Este es un ejemplo de repositorio creado desde GITHUB.
+#Mi proyecto
+Este es un proyecto de prueba
+Autor: Gian franco mosquera
+
+## Descripcion
+Aqui iria la descripcion del proyecto
+
+##Comandos
+Este es un ejemplo para colocar comandos en el README
+```bash
+git status
